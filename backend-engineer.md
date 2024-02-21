@@ -6,7 +6,12 @@
 
 ### Required Skills
 
-- Experience with backend engineering in Rust, Go, Python, Scala and/or Java.
+- Experience with backend engineering in Rust, Go, Python, Scala and/or Java
+
+### Bonus Skills
+
+- Experience with blockchain networks and crypto software
+- Experience with Rust
 
 ### Salary
 
@@ -18,11 +23,11 @@
 
 ### Responsibilities
 
-- Work alongside a team of engineers to build, ship, improve and maintain our mobile application on iOS and Android.
+- You will work alongside a team of engineers to build, ship, improve and maintain our mobile application on iOS and Android.
 
 ### Qualifications
 
-- Experience at a successful technology company at a level of Staff Engineer or higher.
+- Experience at a successful technology company at a level of Staff Engineer or higher
 
 ### Location
 
