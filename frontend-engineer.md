@@ -6,8 +6,8 @@
 
 ### Required Skills
 
-- Experience with mobile engineering in iOS and/or Android
-- Experience with frontend engineering in JavaScript, TypeScript, React and/or React Native
+- Experience with mobile engineering in iOS and/or Android.
+- Experience with frontend engineering in JavaScript, TypeScript, React and/or React Native.
 
 ### Salary
 
@@ -19,7 +19,7 @@
 
 ### Responsibilities
 
-- Work alongside a team of engineers to build, ship, improve and maintain our mobile application on iOS and Android
+- Work alongside a team of engineers to build, ship, improve and maintain our mobile application on iOS and Android.
 
 ### Qualifications
 
