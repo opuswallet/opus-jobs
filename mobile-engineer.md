@@ -1,4 +1,4 @@
-# Staff+ Frontend Engineer in NYC
+# Staff+ Mobile Engineer in NYC
 
 ### Title
 
@@ -6,13 +6,14 @@
 
 ### Required Skills
 
-- Experience with frontend engineering in JavaScript and/or TypeScript
+- Experience with mobile engineering in iOS and/or Android
 
 ### Bonus Skills
 
 - Experience with React, React Native and/or Expo
+- Experience with SwiftUI
+- Experience with Kotlin
 - Experience with blockchain networks and crypto software
-- Experience with mobile engineering in iOS and/or Android
 
 ### Salary
 
