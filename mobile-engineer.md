@@ -6,7 +6,7 @@
 
 ### Required Skills
 
-- Experience with mobile engineering in iOS and/or Android
+- Staff level experience with mobile engineering in iOS
 
 ### Bonus Skills
 
@@ -21,7 +21,7 @@
 
 ### Equity
 
-- 1% to 4%
+- 1% to 3%
 
 ### Responsibilities
 
