@@ -10,8 +10,8 @@
 
 ### Bonus Skills
 
-- Experience with React, React Native and/or Expo
 - Experience with SwiftUI
+- Experience with React, React Native and/or Expo
 - Experience with Kotlin
 - Experience with blockchain networks and crypto software
 
