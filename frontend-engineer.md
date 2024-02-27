@@ -11,8 +11,8 @@
 ### Bonus Skills
 
 - Experience with React Native
-- Experience with blockchain networks and crypto software
 - Experience with mobile engineering in iOS and/or Android
+- Experience with blockchain networks and crypto software
 
 ### Salary
 
