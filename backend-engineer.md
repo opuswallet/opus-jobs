@@ -6,12 +6,14 @@
 
 ### Required Skills
 
-- Experience with backend engineering in Rust, Go, Python, Scala and/or Java
+- Staff level experience with backend engineering in Rust, Go, Python, Scala and/or Java
 
 ### Bonus Skills
 
-- Experience with blockchain networks and crypto software
+- Experience with GCP and/or AWS
 - Experience with Rust
+- Experience with TypeScript
+- Experience with blockchain networks and crypto software
 
 ### Salary
 
