@@ -6,11 +6,11 @@
 
 ### Required Skills
 
-- Experience with frontend engineering in JavaScript and/or TypeScript
+- Staff level experience with React
 
 ### Bonus Skills
 
-- Experience with React, React Native and/or Expo
+- Experience with React Native
 - Experience with blockchain networks and crypto software
 - Experience with mobile engineering in iOS and/or Android
 
@@ -20,7 +20,7 @@
 
 ### Equity
 
-- 1% to 4%
+- 1% to 3%
 
 ### Responsibilities
 
