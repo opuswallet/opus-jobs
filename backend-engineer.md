@@ -1,12 +1,12 @@
-# Staff+ Backend Engineer in NYC
+# Staff Backend Engineer in NYC
 
 ### Title
 
-- Staff Engineer
+- Staff Backend Engineer
 
 ### Required Skills
 
-- Staff level experience with backend engineering in Rust, Go, Python, Scala and/or Java
+- Staff level experience with backend engineering in Rust, Go, Python, Scala, OCaml, Haskell or Java
 
 ### Bonus Skills
 
@@ -17,7 +17,7 @@
 
 ### Salary
 
-- $250K to $300K
+- $200K to $300K
 
 ### Equity
 
@@ -33,7 +33,7 @@
 
 ### Location
 
-- Soho, New York City
+- SoHo, New York City
 
 ### Office Policy
 
