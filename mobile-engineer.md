@@ -1,8 +1,8 @@
-# Staff+ Mobile Engineer in NYC
+# Staff Mobile Engineer in NYC
 
 ### Title
 
-- Staff Engineer
+- Staff Mobile Engineer
 
 ### Required Skills
 
@@ -33,7 +33,7 @@
 
 ### Location
 
-- Soho, New York City
+- SoHo, New York City
 
 ### Office Policy
 
