@@ -1,12 +1,12 @@
-# Staff+ Frontend Engineer in NYC
+# Staff Frontend Engineer in NYC
 
 ### Title
 
-- Staff Engineer
+- Staff Frontend Engineer
 
 ### Required Skills
 
-- Staff level experience with React
+- Staff level experience with JavaScript, TypeScript and React
 
 ### Bonus Skills
 
@@ -16,7 +16,7 @@
 
 ### Salary
 
-- $250K to $300K
+- $200K to $300K
 
 ### Equity
 
@@ -32,7 +32,7 @@
 
 ### Location
 
-- Soho, New York City
+- SoHo, New York City
 
 ### Office Policy
 
