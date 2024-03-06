@@ -6,7 +6,7 @@
 
 ### Required Skills
 
-- Staff level experience with backend engineering in Rust, Go, Python, Scala, OCaml, Haskell or Java
+- Staff level experience with backend engineering in Rust, Go, Python, Scala, Java, Kotlin, OCaml, or Haskell
 
 ### Bonus Skills
 
