@@ -17,7 +17,7 @@
 
 ### Salary
 
-- $225K to $325K
+- $225K to $300K
 
 ### Equity
 
